@@ -6,7 +6,7 @@ The paper has been accepted by IEEE TRANSACTIONS ON COMPUTATIONAL IMAGING.
 Manuscript DOI: 10.1109/TCI.2025.3545357
 https://ieeexplore.ieee.org/document/10902466
 
-![image](overview2.png)
+![image](overview.png)
 
 ![image](OF_lensnet2.png)
 
